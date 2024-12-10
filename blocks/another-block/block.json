@@ -1,0 +1,13 @@
+{
+  "apiVersion": 2,
+  "name": "my-block/another-block",
+  "title": "Another Block",
+  "category": "text",
+  "icon": "heart",
+  "description": "Another custom block for testing.",
+  "supports": {
+    "html": false
+  },
+  "editorScript": "file:./editor.js",
+  "style": "file:./style.css"
+}
